@@ -1,4 +1,4 @@
-# eth-iot-examples
+# IOT tutorial on ethereum blockchain
 
 Where I'll put my blockchain + IOT examples and smart contracts.
 
@@ -34,7 +34,7 @@ Pi stuff (babel-node ES6 server) is in the /pi folder.  Run the ````npm install`
 
 ## Authors
 
-* **nacmonad** - *Initial work* - (https://github.com/nacmonad)
+* **webhero9297** - *Initial work* - (https://github.com/webhero9297)
 
 ## License
 
@@ -42,6 +42,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* 
-*
-*
